@@ -1,0 +1,13 @@
+C:\Users\Elvis\Documents\VSFIUNEW\SouthWest Barbeque\SouthWest Barbeque\bin\Debug\SouthWest Barbeque.exe.config
+C:\Users\Elvis\Documents\VSFIUNEW\SouthWest Barbeque\SouthWest Barbeque\bin\Debug\SouthWest Barbeque.exe
+C:\Users\Elvis\Documents\VSFIUNEW\SouthWest Barbeque\SouthWest Barbeque\bin\Debug\SouthWest Barbeque.pdb
+C:\Users\Elvis\Documents\VSFIUNEW\SouthWest Barbeque\SouthWest Barbeque\bin\Debug\SouthWest Barbeque.xml
+C:\Users\Elvis\Documents\VSFIUNEW\SouthWest Barbeque\SouthWest Barbeque\obj\Debug\SouthWest Barbeque.vbprojAssemblyReference.cache
+C:\Users\Elvis\Documents\VSFIUNEW\SouthWest Barbeque\SouthWest Barbeque\obj\Debug\SouthWest_Barbeque.frmMain.resources
+C:\Users\Elvis\Documents\VSFIUNEW\SouthWest Barbeque\SouthWest Barbeque\obj\Debug\SouthWest_Barbeque.Resources.resources
+C:\Users\Elvis\Documents\VSFIUNEW\SouthWest Barbeque\SouthWest Barbeque\obj\Debug\SouthWest Barbeque.vbproj.GenerateResource.cache
+C:\Users\Elvis\Documents\VSFIUNEW\SouthWest Barbeque\SouthWest Barbeque\obj\Debug\SouthWest Barbeque.vbproj.CoreCompileInputs.cache
+C:\Users\Elvis\Documents\VSFIUNEW\SouthWest Barbeque\SouthWest Barbeque\obj\Debug\SouthWest Barbeque.exe
+C:\Users\Elvis\Documents\VSFIUNEW\SouthWest Barbeque\SouthWest Barbeque\obj\Debug\SouthWest Barbeque.xml
+C:\Users\Elvis\Documents\VSFIUNEW\SouthWest Barbeque\SouthWest Barbeque\obj\Debug\SouthWest Barbeque.pdb
+C:\Users\Elvis\Documents\VSFIUNEW\SouthWest Barbeque\SouthWest Barbeque\obj\Debug\SouthWest_Barbeque.frmSummary.resources
